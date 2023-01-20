@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetrofitClient</string>
+    <string name="data_email">Data Email</string>
+    <string name="data_alamat">Data Alamat</string>
+    <string name="data_kontak">Data Kontak</string>
+    <string name="aplikasi_retrofit_client">Aplikasi Retrofit Client</string>
+</resources>
